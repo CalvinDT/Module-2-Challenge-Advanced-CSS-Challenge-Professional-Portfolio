@@ -6,6 +6,6 @@
 
 **Description**: My website development portfolio.
 
-**Github Link**: https://github.com/JaspreetKhela/Module-2-Weekly-Challenge-Advanced-CSS-Challenge-Professional-Portfolio
+**Github Link**: https://github.com/CalvinDT/Week-2-Portfolio/
 
-**Website Link**: https://jaspreetkhela.github.io/Module-2-Weekly-Challenge-Advanced-CSS-Challenge-Professional-Portfolio
+**Website Link**: https://github.com/CalvinDT/Week-2-Portfolio/
